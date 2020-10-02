@@ -1,5 +1,5 @@
-BSpline Deformable Registration
-===============================
+BSpline Deformable Registration - An Awesome Project
+====================================================
 
 This module is _NOT_ actively supported or maintained (See [#3401](http://na-mic.org/Mantis/view.php?id=3401)).
 The associated code has been copied from Slicer [r23589](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=23589)
